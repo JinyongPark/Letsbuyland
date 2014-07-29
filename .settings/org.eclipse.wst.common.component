@@ -2,6 +2,7 @@
     <wb-module deploy-name="Letsbuyland">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/land.main"/>
         <property name="context-root" value="Letsbuyland"/>
         <property name="java-output-path" value="/Letsbuyland/build/classes"/>
     </wb-module>
